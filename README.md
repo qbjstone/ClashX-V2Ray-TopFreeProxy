@@ -1,14 +1,20 @@
 <h1 align="center">
-  <img src="https://github.com/Dreamacro/clash/raw/master/docs/logo.png" alt="Clash" width="200">
+  <img src="https://i.postimg.cc/nLxMfDg8/clash.png" alt="Clash" width="200">
   <br>
   ClashX Setup Tutorial
   <br>
 </h1>
 
+<!-- newly added! -->
+<!-- ![Vistors](https://visitor-badge.laobi.icu/badge?page_id=WilliamStar007.ClashX-V2Ray-TopFreeProxy) -->
+<!-- ![LICENSE](https://img.shields.io/badge/license-MIT-green.svg) -->
+
 Tutorial for setting up a [ClashX](https://github.com/yichengchen/clashX) proxy with free subscription links.  
 Feel free to submit an [Issue](https://github.com/WilliamStar007/ClashX-TopFreeProxy/issues) or make a [Pull Request](https://github.com/WilliamStar007/ClashX-TopFreeProxy/pulls)!  
 For V2Ray users, see [V2Ray Setup Tutorial](https://github.com/WilliamStar007/ClashX-TopFreeProxy/blob/main/v2ray.md).  
-For a tutorial in Chinese, see [中文版教程](https://github.com/WilliamStar007/ClashX-TopFreeProxy/blob/main/clash%E4%B8%AD%E6%96%87%E7%89%88.md).
+For a tutorial in Chinese, see [中文版教程](https://github.com/WilliamStar007/ClashX-TopFreeProxy/blob/main/clash%E4%B8%AD%E6%96%87%E7%89%88.md).  
+
+**The original Clash repo has been deleted.**  
 
 # Table of Contents
 * [Installation](#installation)
@@ -18,32 +24,27 @@ For a tutorial in Chinese, see [中文版教程](https://github.com/WilliamStar0
 * [Disclaimer](#disclaimer)
 
 ## Installation
-**Clash**
-* Download **Clash** from [Clash Release](https://github.com/Dreamacro/clash/releases) page.
-* Download **Clash for Windows** from [CFW Release](https://github.com/Fndroid/clash_for_windows_pkg/releases) page.
-
-**ClashX ★**
-* Download **ClashX** from [ClashX Release](https://github.com/yichengchen/clashX/releases) page.
-* Download **ClashX Pro** with enhanced mode and native Apple Silicon support at [AppCenter](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public).
+**Clash · Salute Dreamacro.**
+* Download **Clash for Windows** from [CFW Page](https://www.clashforwindows.net/clash-for-windows-download) page.
+* Download **ClashX** from [WannaFlix](https://wannaflix.com/dl.php?type=d&id=8) page.
+* Download **ClashX Pro** with enhanced mode and native Apple Silicon support at [糖糖のWIKI](https://help.mints7.cc/mac-shi-yong-jiao-cheng/mac-clashx-pro-shi-yong-jiao-cheng).  
 
 ## Subscription Links
-**Modify the date (if any) in the links to the current date!!**
+<!-- **Modify the date (if any) in the links to the current date!!** -->
 
-* NodeFree: https://nodefree.org/dy/2023/02/20230228.yaml ★
-* ClashNode: https://clashnode.com/wp-content/uploads/2023/02/20230228.yaml ★
+* NodeFree: https://nodefree.org/dy/2024/03/20240316.yaml ★
+* ClashNode: https://clashnode.com/wp-content/uploads/2024/03/20240316.yaml ★
 * Mfuu: https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml
 * Anaer: https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml ★
-* Pojiezhiyuanjun: https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0228clash.yml
 * Oslook: https://raw.githubusercontent.com/oslook/clash-freenode/main/clash.yaml
 * Ermaozi: https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml ★
 * Learnhard-cn: https://cdn.jsdelivr.net/gh/learnhard-cn/free_proxy_ss@main/clash/clash.provider.yaml
-* Vveg26: https://raw.githubusercontent.com/vveg26/get_proxy/main/dist/clash.config.yaml
+* Tbbatbb: https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/clash.config.yaml
+* OpenRunner: https://raw.githubusercontent.com/openrunner/clash-freenode/main/clash.yaml ★
 * Xrayfree: https://tt.vg/freeclash
-* Kxswa: https://kxswa.tk/clash
 
 **Free Node Pool**
-* BiHai: https://proxies.bihai.cf ★
-* LonXin: https://fq.lonxin.net
+* Zu1k: https://github.com/zu1k/proxypool/releases ★
 
 ## Setup
 **For a detailed guide, see: https://lancellc.gitbook.io/clash**
@@ -58,21 +59,27 @@ For a tutorial in Chinese, see [中文版教程](https://github.com/WilliamStar0
 https://user-images.githubusercontent.com/89805831/179545223-69177f8e-5f2d-4bd3-ba27-b68018418e5a.mp4
 
 ## Credits
-* NodeFree (https://nodefree.org)  
-* ClashNode (https://clashnode.com)  
-* Mfuu (https://github.com/mfuu/v2ray)  
-* Anaer (https://github.com/anaer/Sub)  
-* Pojiezhiyuanjun (https://github.com/pojiezhiyuanjun/freev2)  
-* Oslook (https://github.com/oslook/clash-freenode)  
-* Ermaozi (https://github.com/ermaozi/get_subscribe)  
-* Learnhard-cn (https://github.com/learnhard-cn/free_proxy_ss) 
-* Vveg26 (https://github.com/vveg26/getProxy)
+* NodeFree (https://nodefree.org)
+* ClashNode (https://clashnode.com)
+* Mfuu (https://github.com/mfuu/v2ray)
+* Anaer (https://github.com/anaer/Sub)
+* Oslook (https://github.com/oslook/clash-freenode)
+* Ermaozi (https://github.com/ermaozi/get_subscribe)
+* Learnhard-cn (https://github.com/learnhard-cn/free_proxy_ss)
+* Tbbatbb (https://github.com/tbbatbb/Proxy)
+* OpenRunner (https://github.com/openRunner/clash-freenode)
 * Xrayfree (https://github.com/xrayfree/free-ssr-ss-v2ray-vpn-clash)
-* Kxswa (https://github.com/kxswa/k)
-* Lancellc (https://lancellc.gitbook.io/clash/)
+* Zu1k (https://github.com/zu1k/proxypool)
+* Lancellc (https://lancellc.gitbook.io/clash)
 
 <!-- Archived Reference:
-https://github.com/gooooooooooooogle/Clash-Config -->
+https://github.com/gooooooooooooogle/Clash-Config 
+https://proxies.bihai.cf 
+https://fq.lonxin.net 
+https://github.com/kxswa/k 
+https://github.com/NiceVPN123/NiceVPN
+https://github.com/pojiezhiyuanjun/2023 
+https://github.com/vveg26/getProxy -->
 
 ## Disclaimer
 * This project is meant for personal and educational uses only.
@@ -82,5 +89,3 @@ https://github.com/gooooooooooooogle/Clash-Config -->
 <!--
 [![Star History Chart](https://api.star-history.com/svg?repos=WilliamStar007/ClashX-TopFreeProxy&type=Date)](https://star-history.com/#WilliamStar007/ClashX-TopFreeProxy&Date)
 -->
-
-<!-- Last Upated at 01:24 AM CST, Feb. 19, 2023 -->
